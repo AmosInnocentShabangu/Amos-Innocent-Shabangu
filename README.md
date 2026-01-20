@@ -21,9 +21,9 @@ I am passionate about learning, building projects, and solving real-world proble
 - Networking Basics, Firewalls (basic)
 
 ## 📂 Projects
-🔹 **Password Strength Checker**
-- Python tool to check password security
-- [View Project](https://github.com/yourusername/password-checker)
+🔹 **App prototype**
+- App prtotype using Figma
+- [view Project](https://github.com/AmosInnocentShabangu/Figma/blob/main/README.md)
 
 🔹 **Linux Automation Scripts**
 - Bash scripts for system tasks
