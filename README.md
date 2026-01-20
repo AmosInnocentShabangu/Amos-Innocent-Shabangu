@@ -22,7 +22,7 @@ I am passionate about learning, building projects, and solving real-world proble
 
 ## 📂 Projects
 🔹 **App prototype**
-- App prtotype using Figma
+- App prototype using Figma
 - [view Project](https://github.com/AmosInnocentShabangu/Figma/blob/main/README.md)
 
 🔹 **Linux Automation Scripts**
