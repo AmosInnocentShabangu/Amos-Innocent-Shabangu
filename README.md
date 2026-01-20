@@ -25,9 +25,6 @@ I am passionate about learning, building projects, and solving real-world proble
 - App prototype using Figma
 - [view Project](https://github.com/AmosInnocentShabangu/Figma/blob/main/README.md)
 
-🔹 **Linux Automation Scripts**
-- Bash scripts for system tasks
-- [View Project](https://github.com/yourusername/linux-scripts)
 
 🔹 **website**
 - web development using HTML,CSS,JAVASCRIPT
