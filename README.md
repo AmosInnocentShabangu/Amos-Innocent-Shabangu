@@ -29,9 +29,9 @@ I am passionate about learning, building projects, and solving real-world proble
 - Bash scripts for system tasks
 - [View Project](https://github.com/yourusername/linux-scripts)
 
-🔹 ****
-- Bash scripts for system tasks
-- [View Project](https://github.com/yourusername/linux-scripts)
+🔹 **website**
+- web development using HTML,CSS,JAVASCRIPT
+- [View Project](https://github.com/AmosInnocentShabangu/website)
 
 
 ## 📫 Contact Me
