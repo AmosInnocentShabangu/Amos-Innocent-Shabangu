@@ -30,6 +30,9 @@ I am passionate about learning, building projects, and solving real-world proble
 - web development using HTML,CSS,JAVASCRIPT
 - [View Project](https://github.com/AmosInnocentShabangu/website)
 
+🔹 **VirtualBox**
+- I use Kali Linux as my host system, installed VirtualBox, and run other operating systems inside virtual machines to practice networking, system administration, and safe testing.
+- [View Project]()
 
 ## 📫 Contact Me
 - Email: innocentamossi@gmail.com
