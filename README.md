@@ -37,7 +37,7 @@ I am passionate about learning, building projects, and solving real-world proble
 🔹 **website**
 - This repository demonstrates my practical Linux system administration skills.
 All tasks were performed on a Linux OS.
-- [View Project]()
+- [View Project](https://github.com/AmosInnocentShabangu/Linux-System-Administration-)
 
 ## 📫 Contact Me
 - Email: innocentamossi@gmail.com
