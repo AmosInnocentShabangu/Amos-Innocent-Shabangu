@@ -39,6 +39,11 @@ I am passionate about learning, building projects, and solving real-world proble
 All tasks were performed on a Linux OS.
 - [View Project](https://github.com/AmosInnocentShabangu/Linux-System-Administration-)
 
+  🔹 **Bash Automation Scripts**
+- This repository contains Bash scripts created to automate common Linux
+system administration tasks.
+- [View Project]()
+
 ## 📫 Contact Me
 - Email: innocentamossi@gmail.com
 - LinkedIn: www.linkedin.com/in/amos-innocent
