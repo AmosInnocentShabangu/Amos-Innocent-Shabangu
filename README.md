@@ -34,7 +34,7 @@ I am passionate about learning, building projects, and solving real-world proble
 - I use Kali Linux as my host system, installed VirtualBox, and run other operating systems inside virtual machines to practice networking, system administration, and safe testing.
 - [View Project](https://github.com/AmosInnocentShabangu/VirtualBox/blob/main/README.md)
 
-🔹 **website**
+🔹 **Linux System Administration**
 - This repository demonstrates my practical Linux system administration skills.
 All tasks were performed on a Linux OS.
 - [View Project](https://github.com/AmosInnocentShabangu/Linux-System-Administration-)
