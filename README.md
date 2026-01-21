@@ -42,7 +42,7 @@ All tasks were performed on a Linux OS.
   🔹 **Bash Automation Scripts**
 - This repository contains Bash scripts created to automate common Linux
 system administration tasks.
-- [View Project]()
+- [View Project](https://github.com/AmosInnocentShabangu/Bash-Automation-Scripts)
 
 ## 📫 Contact Me
 - Email: innocentamossi@gmail.com
