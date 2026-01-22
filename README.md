@@ -6,7 +6,7 @@ I am an aspiring IT professional with interests in:
 - Software Development
 - Web development
 - Cybersecurity
-- Linux & Kali Linux
+- Linux 
 - Windows
 - MacOs
 - ICT
