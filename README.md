@@ -49,7 +49,7 @@ system administration tasks.
 - [View Project](https://github.com/AmosInnocentShabangu/Password-Strength-Checker)
 
 🔹 **Linux C Debugging and Binary Analysis**
--This repository demonstrates how a simple C program is compiled, executed,
+- This repository demonstrates how a simple C program is compiled, executed,
 disassembled, and debugged on a Linux system.
 - [View Project](https://github.com/AmosInnocentShabangu/Linux-C-Debugging-and-Binary-Analysis)
 
