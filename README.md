@@ -44,6 +44,10 @@ All tasks were performed on a Linux OS.
 system administration tasks.
 - [View Project](https://github.com/AmosInnocentShabangu/Bash-Automation-Scripts)
 
+   🔹 **Password Strength Checker**
+- This project is a simple password strength checker written in Bash and Python.
+- [View Project]()
+
 ## 📫 Contact Me
 - Email: innocentamossi@gmail.com
 - LinkedIn: www.linkedin.com/in/amos-innocent
