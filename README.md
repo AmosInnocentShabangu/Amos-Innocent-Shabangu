@@ -46,7 +46,7 @@ system administration tasks.
 
    🔹 **Password Strength Checker**
 - This project is a simple password strength checker written in Bash and Python.
-- [View Project]()
+- [View Project](https://github.com/AmosInnocentShabangu/Password-Strength-Checker)
 
 ## 📫 Contact Me
 - Email: innocentamossi@gmail.com
