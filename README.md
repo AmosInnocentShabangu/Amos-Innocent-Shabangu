@@ -39,12 +39,12 @@ I am passionate about learning, building projects, and solving real-world proble
 All tasks were performed on a Linux OS.
 - [View Project](https://github.com/AmosInnocentShabangu/Linux-System-Administration-)
 
-  🔹 **Bash Automation Scripts**
+🔹 **Bash Automation Scripts**
 - This repository contains Bash scripts created to automate common Linux
 system administration tasks.
 - [View Project](https://github.com/AmosInnocentShabangu/Bash-Automation-Scripts)
 
-   🔹 **Password Strength Checker**
+🔹 **Password Strength Checker**
 - This project is a simple password strength checker written in Bash and Python.
 - [View Project](https://github.com/AmosInnocentShabangu/Password-Strength-Checker)
 
