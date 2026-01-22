@@ -48,6 +48,11 @@ system administration tasks.
 - This project is a simple password strength checker written in Bash and Python.
 - [View Project](https://github.com/AmosInnocentShabangu/Password-Strength-Checker)
 
+🔹 **Linux C Debugging and Binary Analysis**
+-This repository demonstrates how a simple C program is compiled, executed,
+disassembled, and debugged on a Linux system.
+- [View Project]()
+
 ## 📫 Contact Me
 - Email: innocentamossi@gmail.com
 - LinkedIn: www.linkedin.com/in/amos-innocent
