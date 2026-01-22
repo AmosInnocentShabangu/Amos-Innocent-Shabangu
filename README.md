@@ -51,7 +51,7 @@ system administration tasks.
 🔹 **Linux C Debugging and Binary Analysis**
 -This repository demonstrates how a simple C program is compiled, executed,
 disassembled, and debugged on a Linux system.
-- [View Project]()
+- [View Project](https://github.com/AmosInnocentShabangu/Linux-C-Debugging-and-Binary-Analysis)
 
 ## 📫 Contact Me
 - Email: innocentamossi@gmail.com
