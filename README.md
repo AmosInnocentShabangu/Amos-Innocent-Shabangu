@@ -33,14 +33,19 @@ Tools & Platforms:
 - Nmap, Wireshark
 
 ## 📂 Projects
-🔹 **App prototype**
-- App prototype using Figma
-- [view Project](https://github.com/AmosInnocentShabangu/Figma/blob/main/README.md)
-
 
 🔹 **website**
 - web development using HTML,CSS,JAVASCRIPT
 - [View Project](https://github.com/AmosInnocentShabangu/website)
+
+🔹 **Linux C Debugging and Binary Analysis**
+- This repository demonstrates how a simple C program is compiled, executed,
+disassembled, and debugged on a Linux system.
+- [View Project](https://github.com/AmosInnocentShabangu/Linux-C-Debugging-and-Binary-Analysis)
+
+🔹 **Password Strength Checker**
+- This project is a simple password strength checker written in Bash and Python.
+- [View Project](https://github.com/AmosInnocentShabangu/Password-Strength-Checker)
 
 🔹 **VirtualBox**
 - I use Kali Linux as my host system, installed VirtualBox, and run other operating systems inside virtual machines to practice networking, system administration, and safe testing.
@@ -56,14 +61,11 @@ All tasks were performed on a Linux OS.
 system administration tasks.
 - [View Project](https://github.com/AmosInnocentShabangu/Bash-Automation-Scripts)
 
-🔹 **Password Strength Checker**
-- This project is a simple password strength checker written in Bash and Python.
-- [View Project](https://github.com/AmosInnocentShabangu/Password-Strength-Checker)
 
-🔹 **Linux C Debugging and Binary Analysis**
-- This repository demonstrates how a simple C program is compiled, executed,
-disassembled, and debugged on a Linux system.
-- [View Project](https://github.com/AmosInnocentShabangu/Linux-C-Debugging-and-Binary-Analysis)
+
+🔹 **App prototype**
+- App prototype using Figma
+- [view Project](https://github.com/AmosInnocentShabangu/Figma/blob/main/README.md)
 
 ## 📫 Contact Me
 - Email: innocentamossi@gmail.com
