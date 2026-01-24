@@ -1,24 +1,36 @@
 # Amos-Innocent-Shabangu
-HI, I'M amos-shabangu
+Hi, I’m Amos Innocent Shabangu 👋 
 
 ## 👨‍💻 About Me
 I am an aspiring IT professional with interests in:
 - Software Development
 - Web development
-- Cybersecurity
-- Linux 
-- Windows
-- MacOs
-- ICT
+- Cybersecurity fundamentals
+- Operating system 
 - Networking
 
 I am passionate about learning, building projects, and solving real-world problems.
 
-## 🛠️ Skills
-- Programming: Python, Bash, C++, C, C#, Java, HTML/CSS, SQL
-- Operating Systems: Linux (Kali Linux), Micrisoft Windows, MacOs, Ubuntu, COMMAND LINE
-- Tools: Git, GitHub, VS Code, cisco packet tracer, VirtuaLBox, Nmap, Wireshark, Postman, Microsoft Teams, IntelliJ IDEA
-- Networking Basics, Firewalls (basic)
+🛠 Skills
+
+Primary Skills:
+- Linux system administration (Kali Linux Ubuntu)
+- Bash scripting and automation
+- HTML, CSS, JavaScript, C
+
+Familiar With:
+- Python
+- C
+- SQL
+- C++
+- Networking fundamentals
+
+Tools & Platforms:
+- Git & GitHub
+- VirtualBox
+- VS Code
+- Cisco Packet Tracer
+- Nmap, Wireshark
 
 ## 📂 Projects
 🔹 **App prototype**
