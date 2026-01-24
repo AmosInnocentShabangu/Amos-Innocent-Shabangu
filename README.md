@@ -20,7 +20,7 @@ Primary Skills:
 
 Familiar With:
 - Python
-- C
+- Java
 - SQL
 - C++
 - Networking fundamentals
