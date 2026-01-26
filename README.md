@@ -43,6 +43,11 @@ Tools & Platforms:
 disassembled, and debugged on a Linux system.
 - [View Project](https://github.com/AmosInnocentShabangu/Linux-C-Debugging-and-Binary-Analysis)
 
+🔹 **Linux System Administration**
+- This repository demonstrates my practical Linux system administration skills.
+All tasks were performed on a Linux OS.
+- [View Project](https://github.com/AmosInnocentShabangu/Linux-System-Administration-)
+
 🔹 **Password Strength Checker**
 - This project is a simple password strength checker written in Bash and Python.
 - [View Project](https://github.com/AmosInnocentShabangu/Password-Strength-Checker)
@@ -51,16 +56,11 @@ disassembled, and debugged on a Linux system.
 - I use Kali Linux as my host system, installed VirtualBox, and run other operating systems inside virtual machines to practice networking, system administration, and safe testing.
 - [View Project](https://github.com/AmosInnocentShabangu/VirtualBox/blob/main/README.md)
 
-🔹 **Linux System Administration**
-- This repository demonstrates my practical Linux system administration skills.
-All tasks were performed on a Linux OS.
-- [View Project](https://github.com/AmosInnocentShabangu/Linux-System-Administration-)
 
 🔹 **Bash Automation Scripts**
 - This repository contains Bash scripts created to automate common Linux
 system administration tasks.
 - [View Project](https://github.com/AmosInnocentShabangu/Bash-Automation-Scripts)
-
 
 
 🔹 **App prototype**
